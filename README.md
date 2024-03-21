@@ -1,1 +1,1 @@
-*protable-ChatGPT*
+*portable-ChatGPT*
